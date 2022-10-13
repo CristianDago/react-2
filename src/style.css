@@ -1,0 +1,51 @@
+
+a {
+   color: #ffffff;
+   text-decoration: none;
+}
+
+a:hover {
+   color: #ffcb08!important;
+}
+
+.active {
+   color: #ffcb08;
+   font-weight: 500; 
+}
+
+.amarillo {
+   color: #ffcb08;
+ }
+
+ .rojo {
+   color:red;
+ }
+
+
+.bg-azul {
+   background-color: #08214e;
+ }
+
+ .bg-blanco {
+   background-color: #ffffff;
+ }
+
+.text-right{
+   text-align: right;
+}
+
+h1{
+   color: #08214e;
+}
+
+.logo {
+   width: 100px;
+}
+
+.maestro {
+   width: 350px;
+}
+
+.pokemon {
+   width: 200px;
+}
